@@ -362,7 +362,9 @@ Cloudlet 2 | Length: 60000 | VM: 0 | Datacenter: 2 | Time: 120.0
 Cloudlet 3 | Length: 80000 | VM: 1 | Datacenter: 3 | Time: 160.0
 
 
-<img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/d36d67fa-b1e7-42f9-a27f-8a27aa7c54f0" />
+##Output Screenshot
+<img width="1100" height="410" alt="image" src="https://github.com/user-attachments/assets/46baa300-db2d-4afd-87e1-ba4f06328ddd" />
+
 
 
 
